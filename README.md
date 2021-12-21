@@ -1,6 +1,6 @@
-# Teste de Software - 2021-2  - Grupo 7
+# Teste de Software - 2021-2  - Grupo 6
 
-Repositório de trabalho definido para a manutenção do controle de versão dos artefatos gerados pelo Grupo 7, cujo objetivo será a **definição de um projeto de teste, automatizado, para o teste de um software específico.**.
+Repositório de trabalho definido para a manutenção do controle de versão dos artefatos gerados pelo Grupo 6, cujo objetivo será a **definição de um projeto de teste, automatizado, para o teste de um software específico.**.
 
 Os participantes deste grupo são os seguintes alunos
 
