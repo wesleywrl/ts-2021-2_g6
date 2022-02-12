@@ -2,15 +2,34 @@
 
 Este arquivo objetiva as definições preliminares a respeito do trabalho final, desenvolvido na modalidade de um projeto de teste automatizado. Tais definições constam da lista de itens constante da sequência deste documento:
 1. Software que será testado.
+
+Vagas - django (https://github.com/LU1Z-D1V1N0/vagas-django)
+
    1.1 Apresentar uma descrição geral do software para o qual será implementado o projeto de teste automatizado.
+   
+   
+   
 2. Descrever quais são as funcionalidades do software que serão testadas **(no mínimo 5)**.
-3. Informar qual a tecnologia será empregada na elaboração do projeto de teste.
-4. Definir um cronograma de atividades com suas respectivas datas e responsáveis pela execução de cada uma delas. Este cronograma deverá ser definido conforme tabela a seguir:
+
+|1|Funcionalidade 1|
+|2|Funcionalidade 2|
+|3|Funcionalidade 3|
+|4|Funcionalidade 4|
+|5|Funcionalidade 5|
+
+4. Informar qual a tecnologia será empregada na elaboração do projeto de teste.
+
+
+
+6. Definir um cronograma de atividades com suas respectivas datas e responsáveis pela execução de cada uma delas. Este cronograma deverá ser definido conforme tabela a seguir:
 
 |#|Funcionalidade|Data_Início|Data_Fim|Responsável|
 |---|-----|---|---|---|
-|1|Funcionalidade x|08/02/2022|10/02/2022|Responsável 1|
-|2|Funcionalidade y|11/02/2022|12/02/2022|Responsável 2|
+|1|Funcionalidade 1|21/02/2022|28/02/2022|Caua|
+|2|Funcionalidade 2|21/02/2022|28/02/2022|Eric|
+|3|Funcionalidade 3|28/02/2022|07/03/2022|Estevão|
+|4|Funcionalidade 4|28/02/2022|07/03/2022|Rafael|
+|5|Funcionalidade 5|07/03/2022|14/03/2022|Wesley|
 
 INSTRUÇÕES:
 1. Esta tarefa é para ser elaborada pelo grupo de trabalho.
