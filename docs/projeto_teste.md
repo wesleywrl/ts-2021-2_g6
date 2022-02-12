@@ -10,7 +10,8 @@ Vagas - django (https://github.com/LU1Z-D1V1N0/vagas-django)
    
    
 2. Descrever quais são as funcionalidades do software que serão testadas **(no mínimo 5)**.
-
+|#|Funcionalidade|
+|---|-----|
 |1|Funcionalidade 1|
 |2|Funcionalidade 2|
 |3|Funcionalidade 3|
